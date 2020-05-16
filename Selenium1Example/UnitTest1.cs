@@ -5,7 +5,10 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
-
+/*
+  nuget Selenium.WebDriver v3.141
+  NuGet OpenQA.Selenium.Support.UI v3.141
+ */
 namespace Selenium1Example
 {
     [TestClass]

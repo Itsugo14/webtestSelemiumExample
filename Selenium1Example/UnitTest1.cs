@@ -14,7 +14,7 @@ namespace Selenium1Example
     [TestClass]
     public class UnitTest1
     {
-        private static readonly string DriverDirectory = "C:\\seleniumDrivers2";
+        private static readonly string DriverDirectory = "C:\\WebDrivers\\chromedriver-win64";
         private static IWebDriver _driver;
 
         // https://www.automatetheplanet.com/mstest-cheat-sheet/
